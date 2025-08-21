@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sachin Kumar Yadav
 
-A passionate Full Stack Web Developer and Problem Solver from India, constantly striving for continuous improvement.
+A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
 
 - 🌱 Currently learning python based backend and other tools, ML
 - 🏆 SIH 2024 Semi-Finalist 
@@ -26,7 +26,6 @@ A passionate Full Stack Web Developer and Problem Solver from India, constantly 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
@@ -34,6 +33,5 @@ A passionate Full Stack Web Developer and Problem Solver from India, constantly 
 
 ### GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinky09&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinky09&show_icons=true&theme=dark)
 
 ---
