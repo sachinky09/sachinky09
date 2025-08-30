@@ -2,7 +2,7 @@
 
 A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
 
-- 🌱 Currently learning python based backend and other tools, ML
+- 🌱 Currently learning ML libraries, Go 
 - 🏆 SIH 2024 Semi-Finalist 
 - 🎓 B.Tech @ NIT Durgapur
 
