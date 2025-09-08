@@ -1,12 +1,9 @@
 # Hi 👋, I'm Sachin Kumar Yadav
 
 A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachinky09&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sachinky09&theme=darkhub&title=Stars,Commits,Repositories,Followers,PullRequest,Experience)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sachinky09&theme=dark&hide_border=true)
 ![Sachin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinky09&theme=react-dark)
-![Sachin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinky09&theme=react-dark)
-
-
 
 
 
