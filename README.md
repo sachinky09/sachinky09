@@ -16,8 +16,11 @@ A passionate Full Stack Web Developer and Problem Solver, constantly striving fo
 ---
 
 ### Connect with me:
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sachinky09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar-yadav-10b3b8298/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/s.achi.n__/)
+
 
 ---
 
