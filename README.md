@@ -1,6 +1,9 @@
 # Hi 👋, I'm Sachin Kumar Yadav
 
 A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachinky09&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 - 🌱 Currently learning ML libraries, Go 
 - 🏆 SIH 2024 Semi-Finalist 
