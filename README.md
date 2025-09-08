@@ -3,7 +3,7 @@
 A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sachinky09&theme=darkhub&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,Reviews,Experience)
+![trophy](https://github-profile-trophy.vercel.app/?username=sachinky09&theme=darkhub&title=Stars,Followers,Commits,Repositories,Experience)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sachinky09&theme=dark&hide_border=true)
 ![Sachin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinky09&theme=react-dark)
 
