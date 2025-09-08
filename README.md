@@ -5,7 +5,7 @@ A passionate Full Stack Web Developer and Problem Solver, constantly striving fo
 
 
 
-- 🌱 Currently learning ML libraries, Go 
+- 🌱 Currently learning ML libraries, functional programming
 - 🏆 SIH 2024 Semi-Finalist 
 - 🎓 B.Tech @ NIT Durgapur
 
@@ -34,6 +34,7 @@ A passionate Full Stack Web Developer and Problem Solver, constantly striving fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40"/>
 
 
 </p>
