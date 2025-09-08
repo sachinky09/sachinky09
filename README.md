@@ -48,8 +48,7 @@ A passionate Full Stack Web Developer and Problem Solver, constantly striving fo
 
 ---
 
-### GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinky09&layout=compact&theme=dark)
+
 
 ---
 
