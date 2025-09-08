@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sachin Kumar Yadav
+# Hi 👋, I'm Sachin
 
 A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
 
