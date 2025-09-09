@@ -1,10 +1,9 @@
 # Hi 👋, I'm Sachin
 
-A passionate Full Stack Web Developer and Problem Solver, constantly striving for continuous improvement.
+A passionate Full Stack Web Developer. I also enjoy learning new tech stacks.
 
-- 🌱 Currently learning ML libraries, functional programming
-- 🏆 SIH 2024 Semi-Finalist 
 - 🎓 B.Tech @ NIT Durgapur
+- Currently learning ML, functional programming 
 
 ---
 
