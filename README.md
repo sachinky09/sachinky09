@@ -45,7 +45,7 @@ A passionate Full Stack Web Developer. I also enjoy learning new tech stacks.
 
 
 ### GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinky09&layout=compact&theme=dark)
+![Top Languages Used]
 <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinky09&theme=gotham" alt="Sachin's GitHub Stats"></td>
 
 
