@@ -1,14 +1,14 @@
-# Hi 👋, I'm Sachin
+# Hi, I'm Sachin  
 
-A passionate Full Stack Web Developer. I also enjoy learning new tech stacks.
+A passionate Full Stack Web Developer. I also enjoy learning new tech stacks and frameworks.  
 
-- 🎓 B.Tech @ NIT Durgapur
-- Currently learning ML, functional programming 
+- B.Tech @ NIT Durgapur  
+- Currently learning Machine Learning and Functional Programming  
 
 ---
 
-### Languages and Tools:
-<p>
+## Languages and Tools  
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -31,27 +31,36 @@ A passionate Full Stack Web Developer. I also enjoy learning new tech stacks.
 
 ---
 
-
-### Connect with me:
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sachinky09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar-yadav-10b3b8298/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/s.achi.n__/)
----
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sachinky09&theme=darkhub&title=Stars,Followers,Commits,Repositories,Experience)
+## Connect with me  
+<p align="center">
+  <a href="https://dev.to/sachinky09"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sachin-kumar-yadav-10b3b8298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/s.achi.n__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
+## GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinky09&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
 
-### GitHub Stats
-<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinky09&theme=gotham" alt="Sachin's GitHub Stats"></td>
+---
 
+## GitHub Overview  
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=sachinky09&theme=dark&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachinky09&theme=gotham" alt="GitHub Stats" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinky09&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sachinky09&theme=dark&hide_border=true)
-![Sachin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinky09&theme=react-dark)
-
----
+## Top Languages by Commit  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinky09&theme=gotham" height="170" alt="Top Languages by Commit"/>
+</p>
