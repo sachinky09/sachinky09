@@ -3,7 +3,7 @@
 A passionate Full Stack Web Developer who enjoys exploring new tech stacks and frameworks.
 
 - 🎓 B.Tech @ NIT Durgapur  
-- 💻 Currently learning Machine Learning & Functional Programming  
+- 💻 Currently exploring Machine Learning
 
 ---
 
