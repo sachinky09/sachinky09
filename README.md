@@ -57,5 +57,6 @@ A passionate Full Stack Web Developer who enjoys exploring new tech stacks and f
 
 ## 🏅 Top Languages by Commits
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinky09&theme=gotham" height="170" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinky09&theme=gotham" height="170" />
 </p>
+
