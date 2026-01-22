@@ -53,29 +53,7 @@ A passionate Full Stack Web Developer who enjoys exploring new tech stacks and f
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinky09&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
 
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinky09&theme=dark&hide_border=true" alt="GitHub Streak" height="170"/>
-  <!-- General Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachinky09&theme=gotham" alt="GitHub Stats" height="170"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinky09&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 ## 🏅 Top Languages by Commits
 <p align="center">
