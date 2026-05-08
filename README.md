@@ -15,6 +15,7 @@
 - 🎓 B.Tech @ NIT Durgapur  
 - 💻 Full Stack Developer  
 - 🔧 Enjoy working close to systems & tools  
+- 2⭐ on Codechef
 
 ---
 
