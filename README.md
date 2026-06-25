@@ -24,17 +24,17 @@
       <h3> What I Do</h3>
       <ul>
         <li>🎓 <strong>B.Tech</strong> student at <b>NIT Durgapur</b></li>
-        <li>💻 <b>Full Stack Developer</b> with a love for backend architecture</li>
-        <li>🔧 Passionate about low-level systems, developer tooling, predictions and automation</li>
-        <li>🏆 <b>3⭐</b> on CodeChef</li>
+        <li> <b>Full Stack Developer</b> with a love for backend architecture</li>
+        <li> Passionate about low-level systems, developer tooling, predictions and automation</li>
+        <li>🏆 <b>3⭐</b> on CodeChef (Max rating 1708) </li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Current Focus</h3>
+      <h3>Interest areas</h3>
       <ul>
-        <li>🛠️ Diving deeper into <b>DL</b> and <b>Low level</b> systems programming</li>
-        <li>🤖 Exploring Vector Databases and building LLM-backed applications</li>
-        <li>🐧 Customizing environments and working closely with Linux kernels</li>
+        <li>Diving deeper into <b>DL</b> and <b>Low level</b> systems programming</li>
+        <li>Exploring Vector Databases and building LLM-backed applications</li>
+        <li>Customizing environments and working closely with Linux kernels</li>
       </ul>
     </td>
   </tr>
